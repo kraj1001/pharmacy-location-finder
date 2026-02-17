@@ -1,20 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pharmacy Location Finder — Melbourne Eastern &amp; SE Suburbs</title>
-    <meta name="description" content="Find the best locations to open a new pharmacy in Melbourne's eastern and south-eastern suburbs using geospatial analysis.">
+    <meta name="description"
+        content="Find the best locations to open a new pharmacy in Melbourne's eastern and south-eastern suburbs using geospatial analysis.">
 
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
 
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
 
     <!-- Header -->
@@ -131,7 +135,8 @@
                 </label>
                 <label class="legend-item">
                     <input type="checkbox" id="layerExclusion" checked>
-                    <span class="legend-color" style="background: rgba(231, 76, 60, 0.15); border: 2px dashed #e74c3c;"></span>
+                    <span class="legend-color"
+                        style="background: rgba(231, 76, 60, 0.15); border: 2px dashed #e74c3c;"></span>
                     <span>1.5km Exclusion Zone</span>
                 </label>
                 <label class="legend-item">
@@ -146,7 +151,8 @@
                 </label>
                 <label class="legend-item">
                     <input type="checkbox" id="layerValidZones" checked>
-                    <span class="legend-color" style="background: rgba(241, 196, 15, 0.3); border: 2px solid #f1c40f;"></span>
+                    <span class="legend-color"
+                        style="background: rgba(241, 196, 15, 0.3); border: 2px solid #f1c40f;"></span>
                     <span>Valid Zones</span>
                 </label>
                 <label class="legend-item">
@@ -162,82 +168,82 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
     <script>
-    // ============================================================
-    // Map Setup
-    // ============================================================
-    const map = L.map('map', {
-        center: [-37.88, 145.25],
-        zoom: 11,
-        zoomControl: true,
-    });
-
-    // Dark tile layer for premium look
-    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
-        subdomains: 'abcd',
-        maxZoom: 19,
-    }).addTo(map);
-
-    // ============================================================
-    // Layer Groups
-    // ============================================================
-    const layers = {
-        pharmacies: L.layerGroup().addTo(map),
-        exclusion: L.layerGroup().addTo(map),
-        shops: L.layerGroup(),          // off by default
-        clinics: L.layerGroup(),        // off by default
-        validZones: L.layerGroup().addTo(map),
-        topLocations: L.layerGroup().addTo(map),
-    };
-
-    // ============================================================
-    // Layer Toggle
-    // ============================================================
-    document.getElementById('layerPharmacies').addEventListener('change', e =>
-        e.target.checked ? map.addLayer(layers.pharmacies) : map.removeLayer(layers.pharmacies));
-    document.getElementById('layerExclusion').addEventListener('change', e =>
-        e.target.checked ? map.addLayer(layers.exclusion) : map.removeLayer(layers.exclusion));
-    document.getElementById('layerShops').addEventListener('change', e =>
-        e.target.checked ? map.addLayer(layers.shops) : map.removeLayer(layers.shops));
-    document.getElementById('layerClinics').addEventListener('change', e =>
-        e.target.checked ? map.addLayer(layers.clinics) : map.removeLayer(layers.clinics));
-    document.getElementById('layerValidZones').addEventListener('change', e =>
-        e.target.checked ? map.addLayer(layers.validZones) : map.removeLayer(layers.validZones));
-    document.getElementById('layerTopLocations').addEventListener('change', e =>
-        e.target.checked ? map.addLayer(layers.topLocations) : map.removeLayer(layers.topLocations));
-
-    // ============================================================
-    // Sidebar Toggle
-    // ============================================================
-    const sidebar = document.getElementById('sidebar');
-    const sidebarToggle = document.getElementById('sidebarToggle');
-    sidebarToggle.addEventListener('click', () => {
-        sidebar.classList.toggle('collapsed');
-        setTimeout(() => map.invalidateSize(), 350);
-    });
-
-    // ============================================================
-    // Data Loading
-    // ============================================================
-    async function loadGeoJSON(filename) {
-        const resp = await fetch(`/data/${filename}`);
-        if (!resp.ok) throw new Error(`Failed to load ${filename}: ${resp.status}`);
-        return resp.json();
-    }
-
-    function createCircleMarker(latlng, options) {
-        return L.circleMarker(latlng, {
-            radius: options.radius || 4,
-            fillColor: options.color,
-            color: options.borderColor || options.color,
-            weight: options.weight || 1,
-            opacity: options.opacity || 0.8,
-            fillOpacity: options.fillOpacity || 0.6,
+        // ============================================================
+        // Map Setup
+        // ============================================================
+        const map = L.map('map', {
+            center: [-37.88, 145.25],
+            zoom: 11,
+            zoomControl: true,
         });
-    }
 
-    function scoreBar(label, value, color) {
-        return `
+        // Dark tile layer for premium look
+        L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/">CARTO</a>',
+            subdomains: 'abcd',
+            maxZoom: 19,
+        }).addTo(map);
+
+        // ============================================================
+        // Layer Groups
+        // ============================================================
+        const layers = {
+            pharmacies: L.layerGroup().addTo(map),
+            exclusion: L.layerGroup().addTo(map),
+            shops: L.layerGroup(),          // off by default
+            clinics: L.layerGroup(),        // off by default
+            validZones: L.layerGroup().addTo(map),
+            topLocations: L.layerGroup().addTo(map),
+        };
+
+        // ============================================================
+        // Layer Toggle
+        // ============================================================
+        document.getElementById('layerPharmacies').addEventListener('change', e =>
+            e.target.checked ? map.addLayer(layers.pharmacies) : map.removeLayer(layers.pharmacies));
+        document.getElementById('layerExclusion').addEventListener('change', e =>
+            e.target.checked ? map.addLayer(layers.exclusion) : map.removeLayer(layers.exclusion));
+        document.getElementById('layerShops').addEventListener('change', e =>
+            e.target.checked ? map.addLayer(layers.shops) : map.removeLayer(layers.shops));
+        document.getElementById('layerClinics').addEventListener('change', e =>
+            e.target.checked ? map.addLayer(layers.clinics) : map.removeLayer(layers.clinics));
+        document.getElementById('layerValidZones').addEventListener('change', e =>
+            e.target.checked ? map.addLayer(layers.validZones) : map.removeLayer(layers.validZones));
+        document.getElementById('layerTopLocations').addEventListener('change', e =>
+            e.target.checked ? map.addLayer(layers.topLocations) : map.removeLayer(layers.topLocations));
+
+        // ============================================================
+        // Sidebar Toggle
+        // ============================================================
+        const sidebar = document.getElementById('sidebar');
+        const sidebarToggle = document.getElementById('sidebarToggle');
+        sidebarToggle.addEventListener('click', () => {
+            sidebar.classList.toggle('collapsed');
+            setTimeout(() => map.invalidateSize(), 350);
+        });
+
+        // ============================================================
+        // Data Loading
+        // ============================================================
+        async function loadGeoJSON(filename) {
+            const resp = await fetch(`./data/${filename}`);
+            if (!resp.ok) throw new Error(`Failed to load ${filename}: ${resp.status}`);
+            return resp.json();
+        }
+
+        function createCircleMarker(latlng, options) {
+            return L.circleMarker(latlng, {
+                radius: options.radius || 4,
+                fillColor: options.color,
+                color: options.borderColor || options.color,
+                weight: options.weight || 1,
+                opacity: options.opacity || 0.8,
+                fillOpacity: options.fillOpacity || 0.6,
+            });
+        }
+
+        function scoreBar(label, value, color) {
+            return `
             <div style="margin: 3px 0;">
                 <div style="display:flex; justify-content:space-between; font-size:11px; color:#aaa;">
                     <span>${label}</span><span>${value}</span>
@@ -247,123 +253,123 @@
                 </div>
             </div>
         `;
-    }
+        }
 
-    async function loadAllData() {
-        try {
-            // ---- Pharmacies ----
-            const pharmacies = await loadGeoJSON('pharmacies.geojson');
-            document.getElementById('statPharmacies').textContent = pharmacies.features.length;
+        async function loadAllData() {
+            try {
+                // ---- Pharmacies ----
+                const pharmacies = await loadGeoJSON('pharmacies.geojson');
+                document.getElementById('statPharmacies').textContent = pharmacies.features.length;
 
-            pharmacies.features.forEach(f => {
-                const [lon, lat] = f.geometry.coordinates;
-                const name = f.properties.name || 'Pharmacy';
-                const marker = createCircleMarker([lat, lon], {
-                    color: '#e74c3c', radius: 5, fillOpacity: 0.8
-                });
-                marker.bindPopup(`
+                pharmacies.features.forEach(f => {
+                    const [lon, lat] = f.geometry.coordinates;
+                    const name = f.properties.name || 'Pharmacy';
+                    const marker = createCircleMarker([lat, lon], {
+                        color: '#e74c3c', radius: 5, fillOpacity: 0.8
+                    });
+                    marker.bindPopup(`
                     <div style="font-family:Inter,sans-serif;">
                         <strong style="color:#e74c3c;">💊 ${name}</strong><br>
                         <small style="color:#999;">${f.properties['addr:street'] || ''} ${f.properties['addr:suburb'] || ''}</small>
                     </div>
                 `);
-                layers.pharmacies.addLayer(marker);
+                    layers.pharmacies.addLayer(marker);
 
-                // Exclusion radius circle (1.5km)
-                const circle = L.circle([lat, lon], {
-                    radius: 1500,
-                    color: '#e74c3c',
-                    weight: 1,
-                    opacity: 0.3,
-                    fillColor: '#e74c3c',
-                    fillOpacity: 0.06,
-                    dashArray: '5, 5',
+                    // Exclusion radius circle (1.5km)
+                    const circle = L.circle([lat, lon], {
+                        radius: 1500,
+                        color: '#e74c3c',
+                        weight: 1,
+                        opacity: 0.3,
+                        fillColor: '#e74c3c',
+                        fillOpacity: 0.06,
+                        dashArray: '5, 5',
+                    });
+                    layers.exclusion.addLayer(circle);
                 });
-                layers.exclusion.addLayer(circle);
-            });
 
-            // ---- Shops ----
-            const shops = await loadGeoJSON('shops.geojson');
-            document.getElementById('statShops').textContent = shops.features.length;
+                // ---- Shops ----
+                const shops = await loadGeoJSON('shops.geojson');
+                document.getElementById('statShops').textContent = shops.features.length;
 
-            shops.features.forEach(f => {
-                const [lon, lat] = f.geometry.coordinates;
-                const name = f.properties.name || f.properties.shop || 'Shop';
-                const marker = createCircleMarker([lat, lon], {
-                    color: '#3498db', radius: 3, fillOpacity: 0.5
-                });
-                marker.bindPopup(`
+                shops.features.forEach(f => {
+                    const [lon, lat] = f.geometry.coordinates;
+                    const name = f.properties.name || f.properties.shop || 'Shop';
+                    const marker = createCircleMarker([lat, lon], {
+                        color: '#3498db', radius: 3, fillOpacity: 0.5
+                    });
+                    marker.bindPopup(`
                     <div style="font-family:Inter,sans-serif;">
                         <strong style="color:#3498db;">🏪 ${name}</strong><br>
                         <small style="color:#999;">${f.properties.shop || ''}</small>
                     </div>
                 `);
-                layers.shops.addLayer(marker);
-            });
-
-            // ---- Clinics ----
-            const clinics = await loadGeoJSON('clinics.geojson');
-            document.getElementById('statClinics').textContent = clinics.features.length;
-
-            clinics.features.forEach(f => {
-                const [lon, lat] = f.geometry.coordinates;
-                const name = f.properties.name || 'Medical Clinic';
-                const marker = createCircleMarker([lat, lon], {
-                    color: '#2ecc71', radius: 4, fillOpacity: 0.7
+                    layers.shops.addLayer(marker);
                 });
-                marker.bindPopup(`
+
+                // ---- Clinics ----
+                const clinics = await loadGeoJSON('clinics.geojson');
+                document.getElementById('statClinics').textContent = clinics.features.length;
+
+                clinics.features.forEach(f => {
+                    const [lon, lat] = f.geometry.coordinates;
+                    const name = f.properties.name || 'Medical Clinic';
+                    const marker = createCircleMarker([lat, lon], {
+                        color: '#2ecc71', radius: 4, fillOpacity: 0.7
+                    });
+                    marker.bindPopup(`
                     <div style="font-family:Inter,sans-serif;">
                         <strong style="color:#2ecc71;">🏥 ${name}</strong><br>
                         <small style="color:#999;">${f.properties['addr:street'] || ''}</small>
                     </div>
                 `);
-                layers.clinics.addLayer(marker);
-            });
+                    layers.clinics.addLayer(marker);
+                });
 
-            // ---- Valid Zones ----
-            const validZones = await loadGeoJSON('valid_zones.geojson');
-            document.getElementById('statValidZones').textContent = validZones.features.length;
+                // ---- Valid Zones ----
+                const validZones = await loadGeoJSON('valid_zones.geojson');
+                document.getElementById('statValidZones').textContent = validZones.features.length;
 
-            L.geoJSON(validZones, {
-                style: {
-                    color: '#f1c40f',
-                    weight: 2,
-                    opacity: 0.8,
-                    fillColor: '#f1c40f',
-                    fillOpacity: 0.15,
-                },
-                onEachFeature: (feature, layer) => {
-                    const areaKm2 = (feature.properties.area_m2 / 1e6).toFixed(3);
-                    layer.bindPopup(`
+                L.geoJSON(validZones, {
+                    style: {
+                        color: '#f1c40f',
+                        weight: 2,
+                        opacity: 0.8,
+                        fillColor: '#f1c40f',
+                        fillOpacity: 0.15,
+                    },
+                    onEachFeature: (feature, layer) => {
+                        const areaKm2 = (feature.properties.area_m2 / 1e6).toFixed(3);
+                        layer.bindPopup(`
                         <div style="font-family:Inter,sans-serif;">
                             <strong style="color:#f1c40f;">📍 Valid Zone #${feature.properties.zone_id}</strong><br>
                             <span style="color:#999;">Area: ${areaKm2} km²</span>
                         </div>
                     `);
-                }
-            }).addTo(layers.validZones);
+                    }
+                }).addTo(layers.validZones);
 
-            // ---- Top Locations ----
-            const topLocations = await loadGeoJSON('scored_locations.geojson');
-            const locationsList = document.getElementById('locationsList');
-            locationsList.innerHTML = '';
+                // ---- Top Locations ----
+                const topLocations = await loadGeoJSON('scored_locations.geojson');
+                const locationsList = document.getElementById('locationsList');
+                locationsList.innerHTML = '';
 
-            topLocations.features.forEach((f, i) => {
-                const [lon, lat] = f.geometry.coordinates;
-                const props = f.properties;
-                const rank = props.rank || i + 1;
-                const score = props.score_total;
+                topLocations.features.forEach((f, i) => {
+                    const [lon, lat] = f.geometry.coordinates;
+                    const props = f.properties;
+                    const rank = props.rank || i + 1;
+                    const score = props.score_total;
 
-                // Star marker on map
-                const icon = L.divIcon({
-                    className: 'star-marker',
-                    html: `<div class="star-marker-inner">${rank}</div>`,
-                    iconSize: [32, 32],
-                    iconAnchor: [16, 16],
-                });
+                    // Star marker on map
+                    const icon = L.divIcon({
+                        className: 'star-marker',
+                        html: `<div class="star-marker-inner">${rank}</div>`,
+                        iconSize: [32, 32],
+                        iconAnchor: [16, 16],
+                    });
 
-                const marker = L.marker([lat, lon], { icon });
-                marker.bindPopup(`
+                    const marker = L.marker([lat, lon], { icon });
+                    marker.bindPopup(`
                     <div style="font-family:Inter,sans-serif; min-width:220px; padding:4px;">
                         <h3 style="margin:0 0 8px; color:#f39c12;">⭐ Location #${rank}</h3>
                         <div style="font-size:24px; font-weight:700; color:#f39c12; margin-bottom:8px;">
@@ -382,38 +388,39 @@
                         </div>
                     </div>
                 `, { maxWidth: 280 });
-                layers.topLocations.addLayer(marker);
+                    layers.topLocations.addLayer(marker);
 
-                // Sidebar list item
-                const card = document.createElement('div');
-                card.className = 'location-card';
-                card.innerHTML = `
+                    // Sidebar list item
+                    const card = document.createElement('div');
+                    card.className = 'location-card';
+                    card.innerHTML = `
                     <div class="location-rank">#${rank}</div>
                     <div class="location-info">
                         <div class="location-score">${score}/100</div>
                         <div class="location-coords">${lat.toFixed(4)}, ${lon.toFixed(4)}</div>
                     </div>
                 `;
-                card.addEventListener('click', () => {
-                    map.setView([lat, lon], 15);
-                    marker.openPopup();
+                    card.addEventListener('click', () => {
+                        map.setView([lat, lon], 15);
+                        marker.openPopup();
+                    });
+                    locationsList.appendChild(card);
                 });
-                locationsList.appendChild(card);
-            });
 
-            // Update status
-            const statusBadge = document.getElementById('statusBadge');
-            statusBadge.innerHTML = '<span class="status-dot active"></span><span>Analysis ready</span>';
+                // Update status
+                const statusBadge = document.getElementById('statusBadge');
+                statusBadge.innerHTML = '<span class="status-dot active"></span><span>Analysis ready</span>';
 
-        } catch (err) {
-            console.error('Error loading data:', err);
-            const statusBadge = document.getElementById('statusBadge');
-            statusBadge.innerHTML = `<span class="status-dot error"></span><span>Error: ${err.message}</span>`;
+            } catch (err) {
+                console.error('Error loading data:', err);
+                const statusBadge = document.getElementById('statusBadge');
+                statusBadge.innerHTML = `<span class="status-dot error"></span><span>Error: ${err.message}</span>`;
+            }
         }
-    }
 
-    // Start loading
-    loadAllData();
+        // Start loading
+        loadAllData();
     </script>
 </body>
+
 </html>
