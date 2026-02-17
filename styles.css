@@ -1,0 +1,501 @@
+/* ============================================================
+   Pharmacy Location Finder — Premium Dark Theme
+   ============================================================ */
+
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bg-primary: #0a0e17;
+    --bg-secondary: #111827;
+    --bg-card: #1a2332;
+    --bg-card-hover: #1f2b3d;
+    --border: rgba(255, 255, 255, 0.06);
+    --text-primary: #f0f4f8;
+    --text-secondary: #8899aa;
+    --text-muted: #5a6a7a;
+    --accent-gold: #f39c12;
+    --accent-red: #e74c3c;
+    --accent-blue: #3498db;
+    --accent-green: #2ecc71;
+    --accent-purple: #9b59b6;
+    --accent-teal: #1abc9c;
+    --glass-bg: rgba(17, 24, 39, 0.85);
+    --glass-border: rgba(255, 255, 255, 0.08);
+    --sidebar-width: 360px;
+    --header-height: 60px;
+    --radius: 12px;
+    --shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: var(--bg-primary);
+    color: var(--text-primary);
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* ---- Header ---- */
+.app-header {
+    height: var(--header-height);
+    background: var(--bg-secondary);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 24px;
+    z-index: 1000;
+    position: relative;
+}
+
+.header-left {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.logo {
+    font-size: 28px;
+    filter: drop-shadow(0 0 8px rgba(243, 156, 18, 0.4));
+}
+
+.app-header h1 {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    background: linear-gradient(135deg, #f39c12, #e67e22);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.subtitle {
+    font-size: 12px;
+    color: var(--text-secondary);
+    margin-top: 1px;
+}
+
+.status-badge {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--bg-card);
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 12px;
+    color: var(--text-secondary);
+    border: 1px solid var(--border);
+}
+
+.status-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--accent-gold);
+    animation: pulse 1.5s infinite;
+}
+
+.status-dot.active {
+    background: var(--accent-green);
+    animation: none;
+}
+
+.status-dot.error {
+    background: var(--accent-red);
+    animation: none;
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.3; }
+}
+
+/* ---- Layout ---- */
+.app-container {
+    display: flex;
+    height: calc(100vh - var(--header-height));
+}
+
+/* ---- Sidebar ---- */
+.sidebar {
+    width: var(--sidebar-width);
+    background: var(--bg-secondary);
+    border-right: 1px solid var(--border);
+    overflow-y: auto;
+    overflow-x: hidden;
+    padding: 16px;
+    transition: width 0.3s ease, padding 0.3s ease;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.sidebar.collapsed {
+    width: 0;
+    padding: 16px 0;
+}
+
+.sidebar::-webkit-scrollbar {
+    width: 4px;
+}
+.sidebar::-webkit-scrollbar-track {
+    background: transparent;
+}
+.sidebar::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+}
+
+.sidebar-toggle {
+    position: absolute;
+    right: -12px;
+    top: 16px;
+    width: 24px;
+    height: 24px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    z-index: 10;
+    font-size: 10px;
+    color: var(--text-secondary);
+    transition: transform 0.3s;
+}
+
+.sidebar.collapsed .sidebar-toggle {
+    right: -24px;
+    transform: rotate(180deg);
+}
+
+/* ---- Stats Grid ---- */
+.stats-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 16px;
+}
+
+.stat-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px;
+    text-align: center;
+    transition: transform 0.2s, border-color 0.2s;
+}
+
+.stat-card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(255, 255, 255, 0.12);
+}
+
+.stat-card.highlight {
+    border-color: rgba(243, 156, 18, 0.3);
+    background: linear-gradient(135deg, rgba(243, 156, 18, 0.08), rgba(230, 126, 34, 0.05));
+}
+
+.stat-value {
+    font-size: 24px;
+    font-weight: 800;
+    color: var(--text-primary);
+    line-height: 1;
+    margin-bottom: 4px;
+}
+
+.stat-card.highlight .stat-value {
+    color: var(--accent-gold);
+}
+
+.stat-label {
+    font-size: 11px;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* ---- Rules ---- */
+.rules-section {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px;
+    margin-bottom: 16px;
+}
+
+.rules-section h3 {
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: var(--text-primary);
+}
+
+.rule {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    color: var(--text-secondary);
+    padding: 5px 0;
+}
+
+.rule-icon {
+    font-size: 10px;
+}
+
+/* ---- Locations List ---- */
+.locations-section {
+    margin-bottom: 16px;
+}
+
+.locations-section h3 {
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: var(--text-primary);
+}
+
+.locations-list {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.location-card {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 10px 12px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.location-card:hover {
+    background: var(--bg-card-hover);
+    border-color: rgba(243, 156, 18, 0.3);
+    transform: translateX(4px);
+}
+
+.location-rank {
+    font-size: 14px;
+    font-weight: 800;
+    color: var(--accent-gold);
+    min-width: 28px;
+}
+
+.location-info {
+    flex: 1;
+}
+
+.location-score {
+    font-size: 14px;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.location-coords {
+    font-size: 11px;
+    color: var(--text-muted);
+    font-family: 'SF Mono', 'Fira Code', monospace;
+}
+
+.loading-placeholder {
+    text-align: center;
+    padding: 20px;
+    color: var(--text-muted);
+    font-size: 13px;
+}
+
+/* ---- Scoring Legend ---- */
+.scoring-legend {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px;
+}
+
+.scoring-legend h3 {
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.factor {
+    margin-bottom: 8px;
+}
+
+.factor span {
+    font-size: 11px;
+    color: var(--text-secondary);
+}
+
+.factor-bar {
+    height: 4px;
+    width: var(--width);
+    background: var(--color);
+    border-radius: 2px;
+    margin-bottom: 3px;
+}
+
+/* ---- Map ---- */
+.map-container {
+    flex: 1;
+    position: relative;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+}
+
+/* Leaflet popup dark theme */
+.leaflet-popup-content-wrapper {
+    background: var(--bg-card) !important;
+    color: var(--text-primary) !important;
+    border-radius: var(--radius) !important;
+    box-shadow: var(--shadow) !important;
+    border: 1px solid var(--border) !important;
+}
+
+.leaflet-popup-tip {
+    background: var(--bg-card) !important;
+    border: 1px solid var(--border) !important;
+}
+
+.leaflet-popup-close-button {
+    color: var(--text-secondary) !important;
+}
+
+/* ---- Star Markers ---- */
+.star-marker {
+    background: none !important;
+    border: none !important;
+}
+
+.star-marker-inner {
+    width: 32px;
+    height: 32px;
+    background: linear-gradient(135deg, #f39c12, #e67e22);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 12px;
+    font-weight: 800;
+    color: white;
+    box-shadow: 0 0 16px rgba(243, 156, 18, 0.5),
+                0 2px 8px rgba(0, 0, 0, 0.3);
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    transition: transform 0.2s;
+}
+
+.star-marker-inner:hover {
+    transform: scale(1.2);
+}
+
+/* ---- Map Legend ---- */
+.map-legend {
+    position: absolute;
+    bottom: 24px;
+    right: 16px;
+    background: var(--glass-bg);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    border: 1px solid var(--glass-border);
+    border-radius: var(--radius);
+    padding: 14px 16px;
+    z-index: 1000;
+    box-shadow: var(--shadow);
+    min-width: 200px;
+}
+
+.map-legend h4 {
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--text-secondary);
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 4px 0;
+    cursor: pointer;
+    font-size: 12px;
+    color: var(--text-secondary);
+    transition: color 0.2s;
+}
+
+.legend-item:hover {
+    color: var(--text-primary);
+}
+
+.legend-item input[type="checkbox"] {
+    accent-color: var(--accent-gold);
+    width: 14px;
+    height: 14px;
+}
+
+.legend-color {
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 8px;
+    flex-shrink: 0;
+}
+
+/* ---- Leaflet Controls Dark Theme ---- */
+.leaflet-control-zoom a {
+    background: var(--bg-card) !important;
+    color: var(--text-primary) !important;
+    border-color: var(--border) !important;
+}
+
+.leaflet-control-zoom a:hover {
+    background: var(--bg-card-hover) !important;
+}
+
+.leaflet-control-attribution {
+    background: rgba(10, 14, 23, 0.7) !important;
+    color: var(--text-muted) !important;
+    font-size: 10px !important;
+}
+
+.leaflet-control-attribution a {
+    color: var(--text-secondary) !important;
+}
+
+/* ---- Responsive ---- */
+@media (max-width: 768px) {
+    .sidebar {
+        position: absolute;
+        z-index: 999;
+        height: calc(100vh - var(--header-height));
+    }
+
+    .sidebar.collapsed {
+        width: 0;
+    }
+
+    .map-legend {
+        bottom: 8px;
+        right: 8px;
+        font-size: 11px;
+    }
+}

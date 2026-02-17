@@ -1,0 +1,6471 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2859959,
+          -37.8623734
+        ]
+      },
+      "properties": {
+        "osm_id": 266426172,
+        "osm_type": "node",
+        "name": "Boyall's Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3529563,
+          -37.7572705
+        ]
+      },
+      "properties": {
+        "osm_id": 266965085,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal",
+        "operator": "Amcal",
+        "addr:street": "Main Street",
+        "addr:suburb": "Lilydale",
+        "addr:postcode": "3140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4405381,
+          -37.9328563
+        ]
+      },
+      "properties": {
+        "osm_id": 370310414,
+        "osm_type": "node",
+        "name": "Emerald Village Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "opening_hours": "Mo-Fr 08:30-18:30; Sa 08:30-14:00; Su 09:30-12:30",
+        "phone": "+61 3 5968 3023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3013862,
+          -37.8229346
+        ]
+      },
+      "properties": {
+        "osm_id": 441579371,
+        "osm_type": "node",
+        "name": "Bayswater North Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1321308,
+          -37.7877084
+        ]
+      },
+      "properties": {
+        "osm_id": 476087949,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0029205,
+          -37.7380378
+        ]
+      },
+      "properties": {
+        "osm_id": 492085531,
+        "osm_type": "node",
+        "name": "Pulse Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0038865,
+          -37.7377998
+        ]
+      },
+      "properties": {
+        "osm_id": 492085532,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "opening_hours": "Mo-Fr 08:30-21:00, Sa 08:30-18:00, Su 09:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1700391,
+          -37.7907198
+        ]
+      },
+      "properties": {
+        "osm_id": 493891493,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1712916,
+          -37.7911322
+        ]
+      },
+      "properties": {
+        "osm_id": 493891569,
+        "osm_type": "node",
+        "name": "The Tunstall Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1721554,
+          -37.7906764
+        ]
+      },
+      "properties": {
+        "osm_id": 493891595,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0771153,
+          -37.7461448
+        ]
+      },
+      "properties": {
+        "osm_id": 535043217,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1834944,
+          -37.8562678
+        ]
+      },
+      "properties": {
+        "osm_id": 563649205,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0038968,
+          -37.8480122
+        ]
+      },
+      "properties": {
+        "osm_id": 570482524,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.002229,
+          -37.853274
+        ]
+      },
+      "properties": {
+        "osm_id": 575370019,
+        "osm_type": "node",
+        "name": "Mulqueeny Midnight Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "High Street",
+        "opening_hours": "Mo-Su 09:00-24:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0738578,
+          -37.9677931
+        ]
+      },
+      "properties": {
+        "osm_id": 577519937,
+        "osm_type": "node",
+        "name": "Direct Chemist Outlet",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Warrigal Road",
+        "addr:suburb": "Cheltenham",
+        "addr:postcode": "3192",
+        "opening_hours": "Mo-Su 08:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0859835,
+          -37.909803
+        ]
+      },
+      "properties": {
+        "osm_id": 582477584,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1440742,
+          -37.8910016
+        ]
+      },
+      "properties": {
+        "osm_id": 583067225,
+        "osm_type": "node",
+        "name": "Pinewood Centreway Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.035943,
+          -37.8181094
+        ]
+      },
+      "properties": {
+        "osm_id": 598431002,
+        "osm_type": "node",
+        "name": "Pulse Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0228434,
+          -37.8131637
+        ]
+      },
+      "properties": {
+        "osm_id": 598434377,
+        "osm_type": "node",
+        "name": "My Chemist",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Barkers Road",
+        "addr:suburb": "Hawthorn",
+        "addr:postcode": "3122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1651131,
+          -37.8807672
+        ]
+      },
+      "properties": {
+        "osm_id": 610743234,
+        "osm_type": "node",
+        "name": "Glen Waverley Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "phone": "+61 3 9560 9218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2660397,
+          -37.8411641
+        ]
+      },
+      "properties": {
+        "osm_id": 619047295,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1486317,
+          -37.8727104
+        ]
+      },
+      "properties": {
+        "osm_id": 620502977,
+        "osm_type": "node",
+        "name": "Syndal Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "phone": "+61 3 9802 6618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0931266,
+          -37.8656574
+        ]
+      },
+      "properties": {
+        "osm_id": 620506499,
+        "osm_type": "node",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave",
+        "addr:street": "Warrigal Road",
+        "phone": "+61 3 9885 9888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1493809,
+          -37.8533843
+        ]
+      },
+      "properties": {
+        "osm_id": 630106047,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0061741,
+          -37.8977824
+        ]
+      },
+      "properties": {
+        "osm_id": 631470699,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.043888,
+          -37.829784
+        ]
+      },
+      "properties": {
+        "osm_id": 642936420,
+        "osm_type": "node",
+        "name": "David Ford Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Auburn Road",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su 10:00-13:00",
+        "phone": "+61 3 9882 2872"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0650101,
+          -37.7432032
+        ]
+      },
+      "properties": {
+        "osm_id": 688016768,
+        "osm_type": "node",
+        "name": "Blooms Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2860936,
+          -38.0045955
+        ]
+      },
+      "properties": {
+        "osm_id": 768629191,
+        "osm_type": "node",
+        "name": "St Mina Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0261714,
+          -37.8218428
+        ]
+      },
+      "properties": {
+        "osm_id": 802084414,
+        "osm_type": "node",
+        "name": "Power Street Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0313343,
+          -37.9328414
+        ]
+      },
+      "properties": {
+        "osm_id": 906439211,
+        "osm_type": "node",
+        "name": "Barts TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.001303,
+          -37.7676065
+        ]
+      },
+      "properties": {
+        "osm_id": 939020676,
+        "osm_type": "node",
+        "name": "Pulse Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.016415,
+          -37.974959
+        ]
+      },
+      "properties": {
+        "osm_id": 992112341,
+        "osm_type": "node",
+        "name": "Black Rock Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1779218,
+          -37.8762656
+        ]
+      },
+      "properties": {
+        "osm_id": 995593324,
+        "osm_type": "node",
+        "name": "Kerrie Road Pharmacy",
+        "amenity": "pharmacy",
+        "phone": "+61 3 9802 1377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1862793,
+          -37.8911425
+        ]
+      },
+      "properties": {
+        "osm_id": 1106931695,
+        "osm_type": "node",
+        "name": "Jells Park Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Waverley Road",
+        "addr:suburb": "Glen Waverley",
+        "addr:postcode": "3150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2877832,
+          -38.0515404
+        ]
+      },
+      "properties": {
+        "osm_id": 1121149894,
+        "osm_type": "node",
+        "name": "Amberley Park Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2998703,
+          -38.0681387
+        ]
+      },
+      "properties": {
+        "osm_id": 1121174295,
+        "osm_type": "node",
+        "name": "Casey Central Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemmart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0421744,
+          -37.7687408
+        ]
+      },
+      "properties": {
+        "osm_id": 1121175449,
+        "osm_type": "node",
+        "name": "Mount's Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "opening_hours": "Mo-Sa 08:00-21:00; PH,Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0612742,
+          -37.9357782
+        ]
+      },
+      "properties": {
+        "osm_id": 1132770645,
+        "osm_type": "node",
+        "name": "Advantage Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Chesterville Road",
+        "addr:postcode": "3165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0919152,
+          -37.8748098
+        ]
+      },
+      "properties": {
+        "osm_id": 1138258516,
+        "osm_type": "node",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1943842,
+          -37.8276083
+        ]
+      },
+      "properties": {
+        "osm_id": 1166135962,
+        "osm_type": "node",
+        "name": "Mitcham Road Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3584809,
+          -37.9299856
+        ]
+      },
+      "properties": {
+        "osm_id": 1207229519,
+        "osm_type": "node",
+        "name": "Belgrave South Pharmacy",
+        "amenity": "pharmacy",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+        "phone": "+61 3 9754 7914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0923876,
+          -37.7654262
+        ]
+      },
+      "properties": {
+        "osm_id": 1224826348,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.034466,
+          -37.9335682
+        ]
+      },
+      "properties": {
+        "osm_id": 1240683010,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Nepean Highway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0024423,
+          -37.8846093
+        ]
+      },
+      "properties": {
+        "osm_id": 1240734798,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3061318,
+          -38.0251064
+        ]
+      },
+      "properties": {
+        "osm_id": 1247865789,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:30-21:00; Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0928256,
+          -37.8644123
+        ]
+      },
+      "properties": {
+        "osm_id": 1313710552,
+        "osm_type": "node",
+        "name": "TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0520724,
+          -37.8544397
+        ]
+      },
+      "properties": {
+        "osm_id": 1357413436,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0344961,
+          -37.9861607
+        ]
+      },
+      "properties": {
+        "osm_id": 1363204571,
+        "osm_type": "node",
+        "name": "Beaumaris Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1108916,
+          -37.8375212
+        ]
+      },
+      "properties": {
+        "osm_id": 1387114186,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1756496,
+          -37.8175404
+        ]
+      },
+      "properties": {
+        "osm_id": 1428590330,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal",
+        "addr:street": "Springvale Road",
+        "addr:suburb": "Nunawading",
+        "addr:postcode": "3131",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+        "phone": "+61 3 9877 7967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0410054,
+          -37.7488684
+        ]
+      },
+      "properties": {
+        "osm_id": 1432376911,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00",
+        "phone": "+61 3 9457 5455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2805012,
+          -37.7978413
+        ]
+      },
+      "properties": {
+        "osm_id": 1436483864,
+        "osm_type": "node",
+        "name": "D G Grey and Burns",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Main Street",
+        "addr:suburb": "Croydon",
+        "addr:postcode": "3136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2392318,
+          -37.9851572
+        ]
+      },
+      "properties": {
+        "osm_id": 1453190623,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3469842,
+          -38.0297484
+        ]
+      },
+      "properties": {
+        "osm_id": 1485217671,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1758374,
+          -37.9678399
+        ]
+      },
+      "properties": {
+        "osm_id": 1530420310,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1636428,
+          -37.7819496
+        ]
+      },
+      "properties": {
+        "osm_id": 1538647050,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal",
+        "operator": "Amcal",
+        "addr:street": "Blackburn Road",
+        "addr:suburb": "Doncaster East",
+        "addr:postcode": "3109",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su 09:00-15:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1486588,
+          -37.7887666
+        ]
+      },
+      "properties": {
+        "osm_id": 1540326806,
+        "osm_type": "node",
+        "name": "Jackson Court Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Cura Health",
+        "addr:street": "Jackson Court",
+        "addr:suburb": "Doncaster East",
+        "addr:postcode": "3109",
+        "opening_hours": "Mo-Su,PH 08:00-22:00",
+        "phone": "+61 3 9848 1400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1196937,
+          -37.7092094
+        ]
+      },
+      "properties": {
+        "osm_id": 1618953591,
+        "osm_type": "node",
+        "name": "Briar Hill Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Mountain View Road",
+        "addr:suburb": "Briar Hill",
+        "addr:postcode": "3088",
+        "opening_hours": "Mo-Fr 09:00-17:30; Sa 09:00-12:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1769979,
+          -37.9164323
+        ]
+      },
+      "properties": {
+        "osm_id": 1626464859,
+        "osm_type": "node",
+        "name": "Buckleys Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0641993,
+          -37.7431913
+        ]
+      },
+      "properties": {
+        "osm_id": 1694249037,
+        "osm_type": "node",
+        "name": "Andrew Katona Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0163694,
+          -37.9752196
+        ]
+      },
+      "properties": {
+        "osm_id": 1708466798,
+        "osm_type": "node",
+        "name": "Pharmacy360",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0459995,
+          -37.8462294
+        ]
+      },
+      "properties": {
+        "osm_id": 1709523813,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal",
+        "opening_hours": "Mo-Su 08:30-19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3048466,
+          -38.0259948
+        ]
+      },
+      "properties": {
+        "osm_id": 1780039770,
+        "osm_type": "node",
+        "name": "Richard Edward's TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Webb Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3085999,
+          -38.0205326
+        ]
+      },
+      "properties": {
+        "osm_id": 1789902733,
+        "osm_type": "node",
+        "name": "Chemmart Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1210656,
+          -37.7160721
+        ]
+      },
+      "properties": {
+        "osm_id": 1864449247,
+        "osm_type": "node",
+        "name": "TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart",
+        "addr:street": "Were Street",
+        "addr:suburb": "Montmorency",
+        "addr:postcode": "3094",
+        "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-17:00; Su 09:00-15:00; Dec 25 off; Jan 01 off",
+        "phone": "+61 3 9435 1729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1377641,
+          -37.7199097
+        ]
+      },
+      "properties": {
+        "osm_id": 1876465754,
+        "osm_type": "node",
+        "name": "Eltham Ridge Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Bolton Street",
+        "addr:suburb": "Eltham",
+        "addr:postcode": "3095",
+        "opening_hours": "Mo-Su 08:00-23:00",
+        "phone": "+61 3 9431 3413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0777096,
+          -37.8632855
+        ]
+      },
+      "properties": {
+        "osm_id": 1894129140,
+        "osm_type": "node",
+        "name": "Ashburton Chemmart Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "High Street",
+        "addr:suburb": "Ashburton",
+        "addr:postcode": "3147",
+        "phone": "+61 3 9885 5154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1823304,
+          -38.0884679
+        ]
+      },
+      "properties": {
+        "osm_id": 1909805532,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1275337,
+          -37.8769733
+        ]
+      },
+      "properties": {
+        "osm_id": 1948157042,
+        "osm_type": "node",
+        "name": "Beovich's Guardian Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1663125,
+          -37.9234704
+        ]
+      },
+      "properties": {
+        "osm_id": 1954089143,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3469026,
+          -38.0310345
+        ]
+      },
+      "properties": {
+        "osm_id": 1955889303,
+        "osm_type": "node",
+        "name": "Berwick Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3465054,
+          -38.0309962
+        ]
+      },
+      "properties": {
+        "osm_id": 1955890105,
+        "osm_type": "node",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave",
+        "operator": "Pharmasave",
+        "addr:street": "High Street",
+        "addr:suburb": "Berwick",
+        "addr:postcode": "3806",
+        "opening_hours": "Mo-Fr 08:00-21:00, Sa 08:00-18:00, Su 09:00-18:00",
+        "phone": "+61 3 9707 1555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.001454,
+          -37.752489
+        ]
+      },
+      "properties": {
+        "osm_id": 1959962973,
+        "osm_type": "node",
+        "name": "Koutsis Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "High Street",
+        "addr:suburb": "Thornbury",
+        "addr:postcode": "3071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0783262,
+          -37.8631329
+        ]
+      },
+      "properties": {
+        "osm_id": 2039378818,
+        "osm_type": "node",
+        "name": "Friends Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "High Street",
+        "addr:suburb": "Ashburton",
+        "addr:postcode": "3147",
+        "phone": "+61 3 9885 1631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1177044,
+          -38.0219768
+        ]
+      },
+      "properties": {
+        "osm_id": 2086942273,
+        "osm_type": "node",
+        "name": "My Chemist",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Narelle Drive",
+        "addr:suburb": "Aspendale Gardens",
+        "addr:postcode": "3195",
+        "phone": "+61 3 9587 5566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1858224,
+          -37.9750713
+        ]
+      },
+      "properties": {
+        "osm_id": 2115102613,
+        "osm_type": "node",
+        "name": "Chandler Road Medical Centre",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0862516,
+          -38.0058453
+        ]
+      },
+      "properties": {
+        "osm_id": 2118844234,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal",
+        "addr:street": "Main Street",
+        "addr:suburb": "Mordialloc",
+        "addr:postcode": "3195",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-17:00",
+        "phone": "+61 3 9580 1019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3227331,
+          -38.0139872
+        ]
+      },
+      "properties": {
+        "osm_id": 2124542651,
+        "osm_type": "node",
+        "name": "Advantage Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1025398,
+          -38.0271477
+        ]
+      },
+      "properties": {
+        "osm_id": 2134636268,
+        "osm_type": "node",
+        "name": "Aspendale Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "operator": "Nance Kieth Pharmacy",
+        "addr:street": "Station Street",
+        "addr:suburb": "Aspendale",
+        "addr:postcode": "3195",
+        "phone": "+61 3 9580 4000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.369712,
+          -37.8840335
+        ]
+      },
+      "properties": {
+        "osm_id": 2160202055,
+        "osm_type": "node",
+        "name": "Kallista Chinese Medicine",
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4274898,
+          -37.7796915
+        ]
+      },
+      "properties": {
+        "osm_id": 2160337387,
+        "osm_type": "node",
+        "name": "Wandin North Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "operator": "Alliance Pharmacy",
+        "addr:street": "Warburton Highway",
+        "addr:suburb": "Wandin North",
+        "addr:postcode": "3139",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2137881,
+          -37.9874322
+        ]
+      },
+      "properties": {
+        "osm_id": 2191594612,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Lonsdale Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0791182,
+          -37.8634802
+        ]
+      },
+      "properties": {
+        "osm_id": 2212722366,
+        "osm_type": "node",
+        "name": "Jim Wong Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "High Street",
+        "addr:suburb": "Ashburton",
+        "addr:postcode": "3147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1275004,
+          -37.8765556
+        ]
+      },
+      "properties": {
+        "osm_id": 2332697018,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0932526,
+          -37.8355553
+        ]
+      },
+      "properties": {
+        "osm_id": 2381880661,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2227324,
+          -37.9772657
+        ]
+      },
+      "properties": {
+        "osm_id": 2405995305,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1363993,
+          -38.0450828
+        ]
+      },
+      "properties": {
+        "osm_id": 2418503716,
+        "osm_type": "node",
+        "name": "Your Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Thames Promenade",
+        "addr:suburb": "Chelsea Heights",
+        "addr:postcode": "3196",
+        "phone": "+61 3 9776 0444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3461126,
+          -38.0421827
+        ]
+      },
+      "properties": {
+        "osm_id": 2497973759,
+        "osm_type": "node",
+        "name": "24 hour pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0867044,
+          -38.0075569
+        ]
+      },
+      "properties": {
+        "osm_id": 2511126994,
+        "osm_type": "node",
+        "name": "Beachside Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Main Street",
+        "addr:suburb": "Mordialloc",
+        "addr:postcode": "3195",
+        "phone": "+61 3 9580 1016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.264371,
+          -38.0350778
+        ]
+      },
+      "properties": {
+        "osm_id": 2535983416,
+        "osm_type": "node",
+        "name": "Nova Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1655086,
+          -37.8791355
+        ]
+      },
+      "properties": {
+        "osm_id": 2564320236,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1655472,
+          -37.8789125
+        ]
+      },
+      "properties": {
+        "osm_id": 2564320239,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0212117,
+          -37.7588937
+        ]
+      },
+      "properties": {
+        "osm_id": 2623008994,
+        "osm_type": "node",
+        "name": "Caremore Pharmacy",
+        "amenity": "pharmacy",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0042175,
+          -37.9514794
+        ]
+      },
+      "properties": {
+        "osm_id": 2634706434,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal",
+        "addr:street": "Station Street",
+        "addr:suburb": "Sandringham",
+        "addr:postcode": "3191",
+        "opening_hours": "Mo-Fr 08:30-19:00; Sa 09:00-17:30",
+        "phone": "+61 3 9598 6022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.076768,
+          -37.848098
+        ]
+      },
+      "properties": {
+        "osm_id": 2714896795,
+        "osm_type": "node",
+        "name": "U Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0931085,
+          -37.7119983
+        ]
+      },
+      "properties": {
+        "osm_id": 2822634489,
+        "osm_type": "node",
+        "name": "Care Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Medbury Avenue",
+        "addr:suburb": "Watsonia",
+        "addr:postcode": "3087",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.091781,
+          -37.8930168
+        ]
+      },
+      "properties": {
+        "osm_id": 2928752108,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1716863,
+          -37.992545
+        ]
+      },
+      "properties": {
+        "osm_id": 2940049925,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "shop": "chemist",
+        "healthcare": "pharmacy",
+        "brand": "Amcal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2931615,
+          -38.0931603
+        ]
+      },
+      "properties": {
+        "osm_id": 2953650596,
+        "osm_type": "node",
+        "name": "Park Avenue Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3390661,
+          -38.0628079
+        ]
+      },
+      "properties": {
+        "osm_id": 3064203254,
+        "osm_type": "node",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave",
+        "operator": "Pharmasave",
+        "addr:street": "O'Shea Road",
+        "addr:suburb": "Berwick",
+        "addr:postcode": "3806",
+        "opening_hours": "Mo-Fr 09:00-21:00, Sa-Su 09:00-18:00",
+        "phone": "+61 3 8794 7920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.04104,
+          -37.853233
+        ]
+      },
+      "properties": {
+        "osm_id": 3268338661,
+        "osm_type": "node",
+        "name": "Malvern Village Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Malvern Road",
+        "opening_hours": "Mo-Fr 9:00-18:00; Sa 9:00-13:00",
+        "phone": "+61 3 9822 3618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0042629,
+          -37.9055828
+        ]
+      },
+      "properties": {
+        "osm_id": 3270433151,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Bay Street",
+        "addr:suburb": "Brighton",
+        "addr:postcode": "3186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0721192,
+          -37.7009852
+        ]
+      },
+      "properties": {
+        "osm_id": 3302160217,
+        "osm_type": "node",
+        "name": "Andrew Place Pharmacy",
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1326009,
+          -37.9117198
+        ]
+      },
+      "properties": {
+        "osm_id": 3413754050,
+        "osm_type": "node",
+        "name": "Campus Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0484434,
+          -37.712364
+        ]
+      },
+      "properties": {
+        "osm_id": 3437078565,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0823661,
+          -37.7108428
+        ]
+      },
+      "properties": {
+        "osm_id": 3704231743,
+        "osm_type": "node",
+        "name": "Pharmacy4Less",
+        "amenity": "pharmacy",
+        "addr:street": "Watsonia Road",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+61 3 9434 3000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0826709,
+          -37.7094068
+        ]
+      },
+      "properties": {
+        "osm_id": 3704488962,
+        "osm_type": "node",
+        "name": "Low Price Pharmacy",
+        "amenity": "pharmacy",
+        "addr:street": "Watsonia Road",
+        "phone": "+61 3 9435 2904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0012229,
+          -37.7687211
+        ]
+      },
+      "properties": {
+        "osm_id": 3775879859,
+        "osm_type": "node",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0090303,
+          -37.7166987
+        ]
+      },
+      "properties": {
+        "osm_id": 3836788560,
+        "osm_type": "node",
+        "name": "Discount Drug Stores",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Broadway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.151234,
+          -37.9496188
+        ]
+      },
+      "properties": {
+        "osm_id": 4041045883,
+        "osm_type": "node",
+        "name": "Lim's Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Balmoral Avenue",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-18:00; Su 10:00-16:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1522912,
+          -37.949499
+        ]
+      },
+      "properties": {
+        "osm_id": 4041048232,
+        "osm_type": "node",
+        "name": "BSE",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1518876,
+          -37.953
+        ]
+      },
+      "properties": {
+        "osm_id": 4041199622,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Springvale Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1325737,
+          -37.9833822
+        ]
+      },
+      "properties": {
+        "osm_id": 4064509741,
+        "osm_type": "node",
+        "name": "Nova Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Centre Dandenong Road",
+        "opening_hours": "Mo-Sa 8:30-20:00; Su 10:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0180408,
+          -37.7781112
+        ]
+      },
+      "properties": {
+        "osm_id": 4064857408,
+        "osm_type": "node",
+        "name": "Fairfield Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Station Street",
+        "addr:suburb": "Fairfield",
+        "addr:postcode": "3078",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su 10:00-13:00",
+        "phone": "+61 3 9489 8153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0851672,
+          -37.8874484
+        ]
+      },
+      "properties": {
+        "osm_id": 4066348895,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0556549,
+          -37.9663301
+        ]
+      },
+      "properties": {
+        "osm_id": 4077652556,
+        "osm_type": "node",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave",
+        "addr:street": "Charman Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0557239,
+          -37.9660945
+        ]
+      },
+      "properties": {
+        "osm_id": 4077652563,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1618448,
+          -37.9060441
+        ]
+      },
+      "properties": {
+        "osm_id": 4079338521,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy",
+        "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 09:00-17:00",
+        "phone": "+61 3 9561 8855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0655261,
+          -37.8107887
+        ]
+      },
+      "properties": {
+        "osm_id": 4196345689,
+        "osm_type": "node",
+        "name": "Deepdene Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1663427,
+          -37.9806155
+        ]
+      },
+      "properties": {
+        "osm_id": 4208899466,
+        "osm_type": "node",
+        "name": "Kingsclere Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0421632,
+          -37.7493802
+        ]
+      },
+      "properties": {
+        "osm_id": 4224608821,
+        "osm_type": "node",
+        "name": "Pursuit",
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1488695,
+          -37.9717634
+        ]
+      },
+      "properties": {
+        "osm_id": 4300537100,
+        "osm_type": "node",
+        "name": "O'Brien Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0540821,
+          -37.8459453
+        ]
+      },
+      "properties": {
+        "osm_id": 4308263751,
+        "osm_type": "node",
+        "name": "Slade",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0301606,
+          -37.8517947
+        ]
+      },
+      "properties": {
+        "osm_id": 4308263755,
+        "osm_type": "node",
+        "name": "Upharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.287356,
+          -37.8159902
+        ]
+      },
+      "properties": {
+        "osm_id": 4373595107,
+        "osm_type": "node",
+        "name": "Merrindale Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Dorset Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.257385,
+          -37.9139897
+        ]
+      },
+      "properties": {
+        "osm_id": 4456068276,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1041059,
+          -37.7038123
+        ]
+      },
+      "properties": {
+        "osm_id": 4795036452,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1035133,
+          -37.703109
+        ]
+      },
+      "properties": {
+        "osm_id": 4795036455,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.084562,
+          -37.8131032
+        ]
+      },
+      "properties": {
+        "osm_id": 4796207980,
+        "osm_type": "node",
+        "name": "Discount Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Whitehorse Road",
+        "addr:suburb": "Balwyn",
+        "addr:postcode": "3103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4922824,
+          -37.9359883
+        ]
+      },
+      "properties": {
+        "osm_id": 4959543508,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "McBride Street",
+        "addr:suburb": "Cockatoo",
+        "addr:postcode": "3781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2086212,
+          -37.9658892
+        ]
+      },
+      "properties": {
+        "osm_id": 5055552327,
+        "osm_type": "node",
+        "name": "Lyndal Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0763633,
+          -37.9935881
+        ]
+      },
+      "properties": {
+        "osm_id": 5074729422,
+        "osm_type": "node",
+        "name": "TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart",
+        "addr:street": "Como Parade West",
+        "addr:suburb": "Parkdale",
+        "addr:postcode": "3195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2834686,
+          -38.0337914
+        ]
+      },
+      "properties": {
+        "osm_id": 5120918825,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "opening_hours": "Mo-Fr 08:00-24:00; Sa,Su 08:00-23:00; PH 08:00-22:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.156504,
+          -37.9346744
+        ]
+      },
+      "properties": {
+        "osm_id": 5130544312,
+        "osm_type": "node",
+        "name": "Highway Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.291183,
+          -38.0848364
+        ]
+      },
+      "properties": {
+        "osm_id": 5153140747,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Springhill Drive",
+        "addr:suburb": "Cranbourne",
+        "addr:postcode": "3977",
+        "opening_hours": "Mo-Fr 08:30-21:00; Sa 09:00-18:00; Su,PH 09:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1426229,
+          -37.9616914
+        ]
+      },
+      "properties": {
+        "osm_id": 5187993663,
+        "osm_type": "node",
+        "name": "Springvale Plaza Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1509426,
+          -37.9508986
+        ]
+      },
+      "properties": {
+        "osm_id": 5195526327,
+        "osm_type": "node",
+        "name": "Lee Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1512142,
+          -37.9519819
+        ]
+      },
+      "properties": {
+        "osm_id": 5202160714,
+        "osm_type": "node",
+        "name": "Windsor Avenue Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Windsor Avenue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1513619,
+          -37.9519919
+        ]
+      },
+      "properties": {
+        "osm_id": 5213706393,
+        "osm_type": "node",
+        "name": "Quang Minh Chinese Medicine",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1521687,
+          -37.9539522
+        ]
+      },
+      "properties": {
+        "osm_id": 5213706400,
+        "osm_type": "node",
+        "name": "Supps 247",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Springvale Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1750021,
+          -37.9665795
+        ]
+      },
+      "properties": {
+        "osm_id": 5215342603,
+        "osm_type": "node",
+        "name": "Mitchell Chemist",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1735016,
+          -37.9931251
+        ]
+      },
+      "properties": {
+        "osm_id": 5215392887,
+        "osm_type": "node",
+        "name": "Pharmacy 4 Less",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Pharmacy 4 Less"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.213923,
+          -37.9900485
+        ]
+      },
+      "properties": {
+        "osm_id": 5217624058,
+        "osm_type": "node",
+        "name": "Iron Supplements",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Foster Street "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2150644,
+          -37.9871746
+        ]
+      },
+      "properties": {
+        "osm_id": 5227802721,
+        "osm_type": "node",
+        "name": "Pharmasave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2154102,
+          -37.9875143
+        ]
+      },
+      "properties": {
+        "osm_id": 5227802725,
+        "osm_type": "node",
+        "name": "Dandenong Central Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1158984,
+          -37.9283623
+        ]
+      },
+      "properties": {
+        "osm_id": 5242024750,
+        "osm_type": "node",
+        "name": "Vicky Melissas",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Centre Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1162221,
+          -37.9283662
+        ]
+      },
+      "properties": {
+        "osm_id": 5242024787,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Centre Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0686017,
+          -37.890215
+        ]
+      },
+      "properties": {
+        "osm_id": 5263269599,
+        "osm_type": "node",
+        "name": "Min Shop",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Neerim Road",
+        "addr:suburb": "Murrumbeena",
+        "addr:postcode": "3163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0410836,
+          -37.8582476
+        ]
+      },
+      "properties": {
+        "osm_id": 5272039163,
+        "osm_type": "node",
+        "name": "Malvern Corner Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0572521,
+          -37.8874245
+        ]
+      },
+      "properties": {
+        "osm_id": 5274784269,
+        "osm_type": "node",
+        "name": "Caremore Pharmacy Carnegie",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Koornang Road",
+        "addr:suburb": "Carnegie",
+        "addr:postcode": "3163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0626303,
+          -37.8011507
+        ]
+      },
+      "properties": {
+        "osm_id": 5282956564,
+        "osm_type": "node",
+        "name": "Casey's Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Burke Road",
+        "addr:suburb": "Balwyn",
+        "addr:postcode": "3103",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2149274,
+          -37.9897993
+        ]
+      },
+      "properties": {
+        "osm_id": 5285526939,
+        "osm_type": "node",
+        "name": "New Life",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0644741,
+          -37.7935051
+        ]
+      },
+      "properties": {
+        "osm_id": 5289217069,
+        "osm_type": "node",
+        "name": "North Balwyn Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Doncaster Road",
+        "addr:suburb": "Balwyn North",
+        "addr:postcode": "3104",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+        "phone": "+61 3 9859 1083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0853866,
+          -37.7319205
+        ]
+      },
+      "properties": {
+        "osm_id": 5313055444,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0583403,
+          -37.8843533
+        ]
+      },
+      "properties": {
+        "osm_id": 5341866322,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0101332,
+          -37.8632658
+        ]
+      },
+      "properties": {
+        "osm_id": 5352025211,
+        "osm_type": "node",
+        "name": "Your Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0631546,
+          -37.982515
+        ]
+      },
+      "properties": {
+        "osm_id": 5388536319,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0645262,
+          -37.9819694
+        ]
+      },
+      "properties": {
+        "osm_id": 5388536554,
+        "osm_type": "node",
+        "name": "Good Health Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2352793,
+          -37.919566
+        ]
+      },
+      "properties": {
+        "osm_id": 5395680031,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0768132,
+          -37.8949907
+        ]
+      },
+      "properties": {
+        "osm_id": 5472109992,
+        "osm_type": "node",
+        "name": "Charles Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0576479,
+          -37.860172
+        ]
+      },
+      "properties": {
+        "osm_id": 5502554949,
+        "osm_type": "node",
+        "name": "Glen Iris Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2205747,
+          -37.9708797
+        ]
+      },
+      "properties": {
+        "osm_id": 5521846560,
+        "osm_type": "node",
+        "name": "Discount Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0181859,
+          -37.7774061
+        ]
+      },
+      "properties": {
+        "osm_id": 5579849392,
+        "osm_type": "node",
+        "name": "TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart",
+        "addr:street": "Station Street",
+        "addr:suburb": "Fairfield",
+        "addr:postcode": "3078",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00; Su 10:00-14:00; PH off"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0182832,
+          -37.7767205
+        ]
+      },
+      "properties": {
+        "osm_id": 5579882853,
+        "osm_type": "node",
+        "name": "Station Street Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Station Street",
+        "addr:suburb": "Fairfield",
+        "addr:postcode": "3078",
+        "opening_hours": "Mo 09:00-16:00; Tu-Th 09:00-17:30; Fr 10:00-16:00; PH,Sa,Su off"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0183285,
+          -37.7764114
+        ]
+      },
+      "properties": {
+        "osm_id": 5579882858,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Station Street",
+        "addr:suburb": "Fairfield",
+        "addr:postcode": "3078",
+        "opening_hours": "Mo-Fr 08:30-21:00; Sa 08:30-17:00; Su 09:00-17:00; PH 08:30-21:00",
+        "phone": "+61 3 9489 8936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0036421,
+          -37.7392238
+        ]
+      },
+      "properties": {
+        "osm_id": 5674121283,
+        "osm_type": "node",
+        "name": "Preston Discount Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "operator": "Pharmasave",
+        "addr:street": "High Street",
+        "addr:suburb": "Preston",
+        "addr:postcode": "3072",
+        "opening_hours": "Mo-Th 09:00-17:00; Fr 09:00-18:00; Sa 09:00-16:00",
+        "phone": "+61 3 9470 4167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0035218,
+          -37.7399571
+        ]
+      },
+      "properties": {
+        "osm_id": 5674121290,
+        "osm_type": "node",
+        "name": "Medipharmacy Discount Chemist",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "High Street",
+        "addr:suburb": "Preston",
+        "addr:postcode": "3072",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-17:00",
+        "phone": "+61 3 9471 2056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0338913,
+          -37.986487
+        ]
+      },
+      "properties": {
+        "osm_id": 5808348562,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0459671,
+          -37.9787818
+        ]
+      },
+      "properties": {
+        "osm_id": 5808348563,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2026119,
+          -37.9680492
+        ]
+      },
+      "properties": {
+        "osm_id": 5853756806,
+        "osm_type": "node",
+        "name": "Dunearn Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.029344,
+          -37.7445036
+        ]
+      },
+      "properties": {
+        "osm_id": 5905412646,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0345044,
+          -37.7139556
+        ]
+      },
+      "properties": {
+        "osm_id": 5925846521,
+        "osm_type": "node",
+        "name": "Kingsbury Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Link Street",
+        "phone": "+61 3 9469 3220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.266024,
+          -38.0326526
+        ]
+      },
+      "properties": {
+        "osm_id": 5960549351,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1267698,
+          -37.8013339
+        ]
+      },
+      "properties": {
+        "osm_id": 6016903975,
+        "osm_type": "node",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1331671,
+          -37.8381531
+        ]
+      },
+      "properties": {
+        "osm_id": 6042790000,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1229061,
+          -37.8183077
+        ]
+      },
+      "properties": {
+        "osm_id": 6163184685,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Whitehorse Road",
+        "addr:suburb": "Box Hill",
+        "addr:postcode": "3128",
+        "opening_hours": "Mo-Fr 08:30-21:00; Sa 08:30-18:00; Su 10:00-17:30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0215718,
+          -37.8867127
+        ]
+      },
+      "properties": {
+        "osm_id": 6165387309,
+        "osm_type": "node",
+        "name": "Nova Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0217461,
+          -37.8870173
+        ]
+      },
+      "properties": {
+        "osm_id": 6165387372,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy",
+        "opening_hours": "Mo-Fr 08:30-20:00; Sa,Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0234341,
+          -37.8869439
+        ]
+      },
+      "properties": {
+        "osm_id": 6165387601,
+        "osm_type": "node",
+        "name": "Dartnells Compounding Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Glen Huntly Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.236843,
+          -37.9201111
+        ]
+      },
+      "properties": {
+        "osm_id": 6322398678,
+        "osm_type": "node",
+        "name": "Blooms The Chemist",
+        "amenity": "pharmacy",
+        "shop": "chemist",
+        "healthcare": "pharmacy",
+        "brand": "Blooms The Chemist"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4591562,
+          -37.7781452
+        ]
+      },
+      "properties": {
+        "osm_id": 6355907261,
+        "osm_type": "node",
+        "name": "Seville Village Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Warburton Highway",
+        "addr:suburb": "Seville",
+        "addr:postcode": "3139",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-14:00",
+        "phone": "+61 3 5964 3765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.146191,
+          -37.9920962
+        ]
+      },
+      "properties": {
+        "osm_id": 6502799626,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0715287,
+          -37.7926811
+        ]
+      },
+      "properties": {
+        "osm_id": 6691155266,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal",
+        "addr:street": "Doncaster Road",
+        "addr:suburb": "Balwyn North",
+        "addr:postcode": "3104",
+        "opening_hours": "Mo-Fr 08:45-18:00; Sa 08:45-14:00; Su 09:30-13:00",
+        "phone": "+61 3 9859 3127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0939665,
+          -37.7915181
+        ]
+      },
+      "properties": {
+        "osm_id": 6786956576,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:00-15:00; Su 10:00-13:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1226527,
+          -37.8176386
+        ]
+      },
+      "properties": {
+        "osm_id": 6845698621,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Whitehorse Road",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 10:00-17:30",
+        "phone": "+61 3 9899 6087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0306205,
+          -37.8067008
+        ]
+      },
+      "properties": {
+        "osm_id": 6893902390,
+        "osm_type": "node",
+        "name": "Star Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa,Su 08:30-18:30; PH 09:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0828164,
+          -37.803295
+        ]
+      },
+      "properties": {
+        "osm_id": 7113022516,
+        "osm_type": "node",
+        "name": "Balwyn North Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2139956,
+          -37.9833207
+        ]
+      },
+      "properties": {
+        "osm_id": 7120519791,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Princes Highway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2219036,
+          -37.815779
+        ]
+      },
+      "properties": {
+        "osm_id": 7640208113,
+        "osm_type": "node",
+        "name": "HealthSave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1284708,
+          -37.877115
+        ]
+      },
+      "properties": {
+        "osm_id": 7779733429,
+        "osm_type": "node",
+        "name": "Wong and Bendixen Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Hamilton Place",
+        "addr:suburb": "Mount Waverley",
+        "addr:postcode": "3149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.128556,
+          -37.8758742
+        ]
+      },
+      "properties": {
+        "osm_id": 7779733431,
+        "osm_type": "node",
+        "name": "Mount Waverley Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "operator": "Community Pharmacy",
+        "addr:street": "Hamilton Place",
+        "addr:suburb": "Mount Waverley",
+        "addr:postcode": "3149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1335525,
+          -37.8525012
+        ]
+      },
+      "properties": {
+        "osm_id": 7800132069,
+        "osm_type": "node",
+        "name": "Quality Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0516156,
+          -37.7987575
+        ]
+      },
+      "properties": {
+        "osm_id": 8163750651,
+        "osm_type": "node",
+        "name": "Harp Village Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1103575,
+          -37.8739348
+        ]
+      },
+      "properties": {
+        "osm_id": 8317522718,
+        "osm_type": "node",
+        "name": "Health More Chadstone Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Health More",
+        "addr:street": "Huntingdale Road",
+        "addr:suburb": "Chadstone",
+        "addr:postcode": "3148",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1254341,
+          -37.7850027
+        ]
+      },
+      "properties": {
+        "osm_id": 8551663711,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0560903,
+          -37.9589397
+        ]
+      },
+      "properties": {
+        "osm_id": 8552299674,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy",
+        "opening_hours": "Mo-We 08:30-17:30; Th,Fr 08:30-21:00; Sa 09:00-17:00; Su 10:00-17:00; PH 10:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3038007,
+          -38.0179812
+        ]
+      },
+      "properties": {
+        "osm_id": 8556754769,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2405582,
+          -37.868833
+        ]
+      },
+      "properties": {
+        "osm_id": 8697183686,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1651192,
+          -37.8747384
+        ]
+      },
+      "properties": {
+        "osm_id": 8968197331,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4066274,
+          -37.874373
+        ]
+      },
+      "properties": {
+        "osm_id": 9018355044,
+        "osm_type": "node",
+        "name": "Pharmasave Monbulk Pharmacy",
+        "amenity": "pharmacy",
+        "addr:street": "Main Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2355546,
+          -37.7945145
+        ]
+      },
+      "properties": {
+        "osm_id": 9049445878,
+        "osm_type": "node",
+        "name": "North Ringwood Family Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Warrandyte Road",
+        "addr:suburb": "Ringwood North",
+        "addr:postcode": "3134",
+        "opening_hours": "Mo-Su 09:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2077271,
+          -37.7475693
+        ]
+      },
+      "properties": {
+        "osm_id": 9092949326,
+        "osm_type": "node",
+        "name": "TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart",
+        "addr:street": "Heidelberg - Warrandyte Road",
+        "addr:suburb": "Warrandyte",
+        "addr:postcode": "3113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0417374,
+          -37.8459633
+        ]
+      },
+      "properties": {
+        "osm_id": 9109422781,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Toorak Road",
+        "addr:suburb": "Hawthorn East",
+        "addr:postcode": "3123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0419146,
+          -37.7689784
+        ]
+      },
+      "properties": {
+        "osm_id": 9110868604,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.065982,
+          -37.7560074
+        ]
+      },
+      "properties": {
+        "osm_id": 9115648971,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2552742,
+          -38.0917647
+        ]
+      },
+      "properties": {
+        "osm_id": 9182813536,
+        "osm_type": "node",
+        "name": "LifeCare Compounding Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1121362,
+          -37.7728466
+        ]
+      },
+      "properties": {
+        "osm_id": 9319577116,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1134681,
+          -37.7731669
+        ]
+      },
+      "properties": {
+        "osm_id": 9319609119,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1227732,
+          -37.9112221
+        ]
+      },
+      "properties": {
+        "osm_id": 9451841018,
+        "osm_type": "node",
+        "name": "Fultons",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Dandenong Road",
+        "phone": "+61 3 9544 1722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.354451,
+          -37.7572004
+        ]
+      },
+      "properties": {
+        "osm_id": 9572164177,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy",
+        "addr:suburb": "Lilydale",
+        "addr:postcode": "3140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0554686,
+          -37.9583877
+        ]
+      },
+      "properties": {
+        "osm_id": 9574992194,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal",
+        "phone": "+61 3 9583 3292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.05203,
+          -37.9585726
+        ]
+      },
+      "properties": {
+        "osm_id": 9579466403,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy",
+        "phone": "+61 3 9584 3282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2834983,
+          -37.7991414
+        ]
+      },
+      "properties": {
+        "osm_id": 9620132215,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2942059,
+          -37.7712628
+        ]
+      },
+      "properties": {
+        "osm_id": 9630459865,
+        "osm_type": "node",
+        "name": "Croydon North Discount Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Maroondah Highway",
+        "addr:suburb": "Croydon North",
+        "addr:postcode": "3136",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa-Su 09:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2920648,
+          -37.862591
+        ]
+      },
+      "properties": {
+        "osm_id": 9670577833,
+        "osm_type": "node",
+        "name": "Greater Knox Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3484769,
+          -37.7597928
+        ]
+      },
+      "properties": {
+        "osm_id": 9776791361,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.343187,
+          -37.8100171
+        ]
+      },
+      "properties": {
+        "osm_id": 9849457988,
+        "osm_type": "node",
+        "name": "Montrose Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Mount Dandenong Tourist Road",
+        "addr:suburb": "Montrose",
+        "addr:postcode": "3765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.379564,
+          -37.725238
+        ]
+      },
+      "properties": {
+        "osm_id": 9873349260,
+        "osm_type": "node",
+        "name": "Coldstream Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Maroondah Highway",
+        "addr:suburb": "Coldstream",
+        "addr:postcode": "3770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2494421,
+          -37.8437813
+        ]
+      },
+      "properties": {
+        "osm_id": 9962826645,
+        "osm_type": "node",
+        "name": "Direct Chemist Warehouse",
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4709057,
+          -38.0852995
+        ]
+      },
+      "properties": {
+        "osm_id": 9982849321,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 09:00-18:00; PH 09:00-19:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0936995,
+          -37.9706279
+        ]
+      },
+      "properties": {
+        "osm_id": 10019710488,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Centre Dandenong Road",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-19:00",
+        "phone": "+61 3 8527 1769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0629747,
+          -37.953213
+        ]
+      },
+      "properties": {
+        "osm_id": 10127246915,
+        "osm_type": "node",
+        "name": "Pharmacy 777",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Bernard Street",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su 10:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4831111,
+          -38.0787138
+        ]
+      },
+      "properties": {
+        "osm_id": 10160675828,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Main Street",
+        "addr:suburb": "Pakenham",
+        "opening_hours": "Mo-Fr 08:30-21:00; Sa-Su,PH 09:00-18:00",
+        "phone": "+61 3 5941 1888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2862495,
+          -37.8612381
+        ]
+      },
+      "properties": {
+        "osm_id": 10168013041,
+        "osm_type": "node",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "addr:street": "Dorset Square"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2503954,
+          -37.8122898
+        ]
+      },
+      "properties": {
+        "osm_id": 10184472048,
+        "osm_type": "node",
+        "name": "National Pharmacies",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Railway Avenue",
+        "addr:suburb": "Ringwood East",
+        "addr:postcode": "3135",
+        "opening_hours": "Mo-Fr 08:30-18:00; Sa 09:00-13:00",
+        "phone": "+61 3 9870 6555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2702456,
+          -37.8115512
+        ]
+      },
+      "properties": {
+        "osm_id": 10203020743,
+        "osm_type": "node",
+        "name": "Eastfield Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "The Mall",
+        "addr:suburb": "Croydon South",
+        "addr:postcode": "3136",
+        "opening_hours": "Mo-Sa 09:00-19:00; Su 09:30-12:30",
+        "phone": "+61 3 9723 1093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2527582,
+          -37.9280119
+        ]
+      },
+      "properties": {
+        "osm_id": 10222713636,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0387505,
+          -37.8760043
+        ]
+      },
+      "properties": {
+        "osm_id": 10223008753,
+        "osm_type": "node",
+        "name": "Direct Chemist Outlet",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1718389,
+          -37.8416194
+        ]
+      },
+      "properties": {
+        "osm_id": 10250310685,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Springvale Road",
+        "addr:suburb": "Forest Hill",
+        "addr:postcode": "3131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0292512,
+          -37.7389158
+        ]
+      },
+      "properties": {
+        "osm_id": 10568805977,
+        "osm_type": "node",
+        "name": "Priceline",
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1943886,
+          -37.8275419
+        ]
+      },
+      "properties": {
+        "osm_id": 10724774962,
+        "osm_type": "node",
+        "name": "Rangeview Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0832769,
+          -37.9219243
+        ]
+      },
+      "properties": {
+        "osm_id": 10736056330,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4412141,
+          -37.9323407
+        ]
+      },
+      "properties": {
+        "osm_id": 10752035451,
+        "osm_type": "node",
+        "name": "Emerald Wellness Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1500256,
+          -37.7128288
+        ]
+      },
+      "properties": {
+        "osm_id": 10814160887,
+        "osm_type": "node",
+        "name": "TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1488468,
+          -37.7146461
+        ]
+      },
+      "properties": {
+        "osm_id": 10815646183,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3682016,
+          -38.0454639
+        ]
+      },
+      "properties": {
+        "osm_id": 10830947853,
+        "osm_type": "node",
+        "name": "Beaconsfield Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Old Princes Highway",
+        "opening_hours": "Mo-Fr 09:00-20:00; Sa 09:00-17:00; Su 09:00-13:00",
+        "phone": "+61 3 9707 5187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1092649,
+          -37.882052
+        ]
+      },
+      "properties": {
+        "osm_id": 10841626290,
+        "osm_type": "node",
+        "name": "Rob's Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Huntingdale Road",
+        "opening_hours": "Mo-Fr 09:00-21:00, Sa 09:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2793335,
+          -37.7938085
+        ]
+      },
+      "properties": {
+        "osm_id": 10888687545,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Kent Avenue",
+        "addr:suburb": "Croydon",
+        "addr:postcode": "3136",
+        "opening_hours": "Mo-Fr 08:30-20:00; Sa,Su 09:00-18:00",
+        "phone": "+61 3 9113 4426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1836632,
+          -37.8374414
+        ]
+      },
+      "properties": {
+        "osm_id": 11049030358,
+        "osm_type": "node",
+        "name": "Direct Chemist Outlet",
+        "amenity": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2651938,
+          -37.8417365
+        ]
+      },
+      "properties": {
+        "osm_id": 11092874068,
+        "osm_type": "node",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal",
+        "opening_hours": "Mo-Fr 08:30-21:00; Sa,Su 09:00-18:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1646624,
+          -37.8795285
+        ]
+      },
+      "properties": {
+        "osm_id": 11818183162,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3622698,
+          -38.0952882
+        ]
+      },
+      "properties": {
+        "osm_id": 11829420782,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1029865,
+          -37.7031231
+        ]
+      },
+      "properties": {
+        "osm_id": 12062488016,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.077552,
+          -37.9839133
+        ]
+      },
+      "properties": {
+        "osm_id": 12090110414,
+        "osm_type": "node",
+        "name": "TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3362881,
+          -38.0757583
+        ]
+      },
+      "properties": {
+        "osm_id": 12107874946,
+        "osm_type": "node",
+        "name": "TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1053263,
+          -37.8202057
+        ]
+      },
+      "properties": {
+        "osm_id": 12112014850,
+        "osm_type": "node",
+        "name": "TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart",
+        "opening_hours": "Mo-Fr 08:30-18:00; Sa 09:00-14:00; Su,PH off"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1206613,
+          -37.8195564
+        ]
+      },
+      "properties": {
+        "osm_id": 12121721356,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "opening_hours": "Mo-Th 08:30-19:00; Fr 08:30-17:30; PH closed; Sa 08:30-17:30; Su 10:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1918604,
+          -37.9463134
+        ]
+      },
+      "properties": {
+        "osm_id": 12316728270,
+        "osm_type": "node",
+        "name": "Silverton Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0048779,
+          -37.8846948
+        ]
+      },
+      "properties": {
+        "osm_id": 12357597966,
+        "osm_type": "node",
+        "name": "Geoff & Sue Szwarcbard Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Glen Huntly Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0049095,
+          -37.88493
+        ]
+      },
+      "properties": {
+        "osm_id": 12357984725,
+        "osm_type": "node",
+        "name": "Michael Shapp Soul Pattinson Chemist",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Glen Huntly Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0501385,
+          -37.864415
+        ]
+      },
+      "properties": {
+        "osm_id": 12411528581,
+        "osm_type": "node",
+        "name": "Heathershaw's Compounding Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Burke Road",
+        "addr:suburb": "Glen Iris",
+        "addr:postcode": "3146",
+        "opening_hours": "Mo-Fr 08:30-18:30, Sa 09:00-17:00, Su 09:00-13:00",
+        "phone": "+61 3 9509 7912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0975238,
+          -37.8234201
+        ]
+      },
+      "properties": {
+        "osm_id": 12411616917,
+        "osm_type": "node",
+        "name": "TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart",
+        "addr:street": "Union Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0661395,
+          -37.7563277
+        ]
+      },
+      "properties": {
+        "osm_id": 12418098393,
+        "osm_type": "node",
+        "name": "Heidelberg Healthcare Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Burgundy Street",
+        "addr:suburb": "Heidelberg",
+        "addr:postcode": "3084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0358507,
+          -37.821006
+        ]
+      },
+      "properties": {
+        "osm_id": 13127462461,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.248091,
+          -38.0050405
+        ]
+      },
+      "properties": {
+        "osm_id": 13132460249,
+        "osm_type": "node",
+        "name": "Direct Chemist Outlet",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "opening_hours": "Mo-Fr 09:00-18:30; Sa 09:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1684426,
+          -37.7626767
+        ]
+      },
+      "properties": {
+        "osm_id": 13161527737,
+        "osm_type": "node",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0362362,
+          -37.8192841
+        ]
+      },
+      "properties": {
+        "osm_id": 13204106063,
+        "osm_type": "node",
+        "name": "TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2814801,
+          -37.7959091
+        ]
+      },
+      "properties": {
+        "osm_id": 13305901528,
+        "osm_type": "node",
+        "name": "Direct Chemist Outlet",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Main Street",
+        "addr:suburb": "Croydon",
+        "addr:postcode": "3136",
+        "opening_hours": "Mo-Fr 08:30-21:00; Sa 08:30-17:00; Su 09:30-17:00",
+        "phone": "+61 3 9723 7711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1299776,
+          -37.7575776
+        ]
+      },
+      "properties": {
+        "osm_id": 13439576361,
+        "osm_type": "node",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "opening_hours": "Mo-Fr 8:00-20:00; Sa 8:00-18:00; Su 9:00-17:00; PH 9:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0243992,
+          -37.8737213
+        ]
+      },
+      "properties": {
+        "osm_id": 13451890906,
+        "osm_type": "node",
+        "name": "Caulfield Park Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "operator": "Caulfield Compounding Pharmacy Pty Ltd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1229733,
+          -37.8193896
+        ]
+      },
+      "properties": {
+        "osm_id": 13522912920,
+        "osm_type": "node",
+        "name": "Better Value Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2560656,
+          -37.8763371
+        ]
+      },
+      "properties": {
+        "osm_id": 28867408,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Burwood Highway",
+        "addr:suburb": "Knoxfield",
+        "addr:postcode": "3180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0923641,
+          -37.8797862
+        ]
+      },
+      "properties": {
+        "osm_id": 29479565,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Warrigal Road",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-18:00",
+        "phone": "+61 3 6292 5221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2423572,
+          -37.8705612
+        ]
+      },
+      "properties": {
+        "osm_id": 45240600,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "opening_hours": "Sa-Su 08:00-23:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1442613,
+          -37.8919036
+        ]
+      },
+      "properties": {
+        "osm_id": 45792555,
+        "osm_type": "way",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy",
+        "operator": "Priceline",
+        "addr:street": "Blackburn Road",
+        "addr:suburb": "Mount Waverley",
+        "addr:postcode": "3149",
+        "opening_hours": "09:00-17:00",
+        "phone": "+61 3 9887 9044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2312443,
+          -37.8484706
+        ]
+      },
+      "properties": {
+        "osm_id": 84831506,
+        "osm_type": "way",
+        "name": "7 Day Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3535495,
+          -37.9095853
+        ]
+      },
+      "properties": {
+        "osm_id": 107787626,
+        "osm_type": "way",
+        "name": "Belgrave Community Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Burwood Highway",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:00; Su 10:00-14:00",
+        "phone": "+61 3 9754 2001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0281056,
+          -37.7398632
+        ]
+      },
+      "properties": {
+        "osm_id": 109347697,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "shop": "chemist",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0294548,
+          -37.8070304
+        ]
+      },
+      "properties": {
+        "osm_id": 138871458,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "High Street",
+        "addr:suburb": "Kew",
+        "addr:postcode": "3101",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:30-18:00; Su 09:30-17:30",
+        "phone": "+61 3 9855 1273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1724704,
+          -37.9945127
+        ]
+      },
+      "properties": {
+        "osm_id": 300240961,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Cheltenham Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2267657,
+          -37.8158096
+        ]
+      },
+      "properties": {
+        "osm_id": 328748063,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Maroondah Highway",
+        "addr:suburb": "Ringwood",
+        "addr:postcode": "3134",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "phone": "+61 3 9870 5022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1521759,
+          -37.9505511
+        ]
+      },
+      "properties": {
+        "osm_id": 401707746,
+        "osm_type": "way",
+        "name": "Better Value",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Springvale Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2847706,
+          -37.8615033
+        ]
+      },
+      "properties": {
+        "osm_id": 418248514,
+        "osm_type": "way",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal",
+        "opening_hours": "09:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0765105,
+          -37.8338562
+        ]
+      },
+      "properties": {
+        "osm_id": 438415098,
+        "osm_type": "way",
+        "name": "Shulman & Stephens Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Riversdale Road",
+        "addr:suburb": "Camberwell",
+        "addr:postcode": "3124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3169038,
+          -38.086507
+        ]
+      },
+      "properties": {
+        "osm_id": 530776043,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "operator": "Chemist Warehouse",
+        "opening_hours": "24/7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1533696,
+          -37.9482881
+        ]
+      },
+      "properties": {
+        "osm_id": 538767408,
+        "osm_type": "way",
+        "name": "Khang Ninh",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Springvale Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1533978,
+          -37.9479633
+        ]
+      },
+      "properties": {
+        "osm_id": 538767414,
+        "osm_type": "way",
+        "name": "\u0110\u00f4ng Y Ho\u00e0i Xu\u00e2n \u0110\u01b0\u1eddng",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.173389,
+          -37.9657007
+        ]
+      },
+      "properties": {
+        "osm_id": 538980965,
+        "osm_type": "way",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1739252,
+          -37.9658905
+        ]
+      },
+      "properties": {
+        "osm_id": 538980978,
+        "osm_type": "way",
+        "name": "Body Fuel Supplements",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0002105,
+          -37.759416
+        ]
+      },
+      "properties": {
+        "osm_id": 539765901,
+        "osm_type": "way",
+        "name": "Advantage Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "High Street",
+        "addr:suburb": "Thornbury",
+        "addr:postcode": "3071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1190278,
+          -37.9270128
+        ]
+      },
+      "properties": {
+        "osm_id": 542182646,
+        "osm_type": "way",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave",
+        "addr:street": "Clayton Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1188282,
+          -37.927926
+        ]
+      },
+      "properties": {
+        "osm_id": 542182662,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Clayton Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1196601,
+          -37.9272407
+        ]
+      },
+      "properties": {
+        "osm_id": 542408101,
+        "osm_type": "way",
+        "name": "Hi-Pie Aussie Life",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Clayton Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0901038,
+          -37.9000066
+        ]
+      },
+      "properties": {
+        "osm_id": 542912836,
+        "osm_type": "way",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy",
+        "addr:street": "Eaton Mall",
+        "addr:suburb": "Oakleigh",
+        "addr:postcode": "3166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0899487,
+          -37.8988693
+        ]
+      },
+      "properties": {
+        "osm_id": 542912851,
+        "osm_type": "way",
+        "name": "Alimonakis Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2027463,
+          -37.9826156
+        ]
+      },
+      "properties": {
+        "osm_id": 543294992,
+        "osm_type": "way",
+        "name": "Dandenong West Pharmacy",
+        "amenity": "pharmacy",
+        "addr:street": "Hemmings Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0672442,
+          -37.8895182
+        ]
+      },
+      "properties": {
+        "osm_id": 544768225,
+        "osm_type": "way",
+        "name": "David Jones Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Neerim Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0410132,
+          -37.8583407
+        ]
+      },
+      "properties": {
+        "osm_id": 545454336,
+        "osm_type": "way",
+        "name": "Malvern Corner Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "High Street",
+        "opening_hours": "Mo-Su 9:00-21:00",
+        "phone": "+61 3 9509 5172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3644943,
+          -37.8554835
+        ]
+      },
+      "properties": {
+        "osm_id": 548483475,
+        "osm_type": "way",
+        "name": "Olinda Pharmacy",
+        "amenity": "pharmacy",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0914602,
+          -37.7748664
+        ]
+      },
+      "properties": {
+        "osm_id": 569004143,
+        "osm_type": "way",
+        "name": "Shane Johnson Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0003478,
+          -37.7579239
+        ]
+      },
+      "properties": {
+        "osm_id": 617332901,
+        "osm_type": "way",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave",
+        "addr:street": "High Street",
+        "addr:suburb": "Thornbury",
+        "addr:postcode": "3071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0578383,
+          -37.8769092
+        ]
+      },
+      "properties": {
+        "osm_id": 631295237,
+        "osm_type": "way",
+        "name": "Sophie Tanaghow",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Waverley Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0588355,
+          -37.8774578
+        ]
+      },
+      "properties": {
+        "osm_id": 631295260,
+        "osm_type": "way",
+        "name": "Malvern East Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Waverley Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0581865,
+          -37.8848938
+        ]
+      },
+      "properties": {
+        "osm_id": 631587089,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Koornang Road",
+        "addr:suburb": "Carnegie",
+        "addr:postcode": "3163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0570985,
+          -37.8873187
+        ]
+      },
+      "properties": {
+        "osm_id": 631587136,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Koornang Road",
+        "addr:postcode": "3163",
+        "opening_hours": "Mo-Su 09:00-21:00",
+        "phone": "+61 3 9568 3485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1042569,
+          -37.9090804
+        ]
+      },
+      "properties": {
+        "osm_id": 638735441,
+        "osm_type": "way",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Huntingdale Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1039911,
+          -37.9102074
+        ]
+      },
+      "properties": {
+        "osm_id": 639681345,
+        "osm_type": "way",
+        "name": "Huntingdale Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Huntingdale Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0768863,
+          -37.8949918
+        ]
+      },
+      "properties": {
+        "osm_id": 639689974,
+        "osm_type": "way",
+        "name": "Charles Pharmacy",
+        "amenity": "pharmacy",
+        "shop": "variety_store",
+        "healthcare": "pharmacy",
+        "addr:street": "Poath Road",
+        "addr:suburb": "Hughesdale",
+        "addr:postcode": "3166",
+        "opening_hours": "Mo-Fr 09:00-20:00, Sa 9:00-13:00",
+        "phone": "+61 3 9568 1761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0579762,
+          -37.920766
+        ]
+      },
+      "properties": {
+        "osm_id": 641539938,
+        "osm_type": "way",
+        "name": "Community Pharmacy East Bentleigh",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Centre Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1158868,
+          -38.0529
+        ]
+      },
+      "properties": {
+        "osm_id": 643089849,
+        "osm_type": "way",
+        "name": "Adams Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Nepean Highway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1161466,
+          -38.0535828
+        ]
+      },
+      "properties": {
+        "osm_id": 643089889,
+        "osm_type": "way",
+        "name": "Soul Pattison Chemist",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Nepean Highway"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1071711,
+          -38.0368399
+        ]
+      },
+      "properties": {
+        "osm_id": 644408370,
+        "osm_type": "way",
+        "name": "Edithvale Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Nepean Highway",
+        "addr:postcode": "3196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0012658,
+          -37.8184775
+        ]
+      },
+      "properties": {
+        "osm_id": 647894663,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Bridge Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1233902,
+          -38.0761021
+        ]
+      },
+      "properties": {
+        "osm_id": 664749281,
+        "osm_type": "way",
+        "name": "Carrum Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Station Street",
+        "addr:suburb": "Carrum",
+        "addr:postcode": "3197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1488161,
+          -37.7139701
+        ]
+      },
+      "properties": {
+        "osm_id": 673605053,
+        "osm_type": "way",
+        "name": "Thompsons Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "phone": "+61 3 9439 9249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0588607,
+          -37.8313483
+        ]
+      },
+      "properties": {
+        "osm_id": 709059265,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "operator": "Chemist Warehouse",
+        "addr:street": "Riversdale Road",
+        "addr:suburb": "Camberwell",
+        "addr:postcode": "3124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0572684,
+          -37.8303323
+        ]
+      },
+      "properties": {
+        "osm_id": 709059289,
+        "osm_type": "way",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy",
+        "addr:street": "Burke Road",
+        "addr:suburb": "Camberwell",
+        "addr:postcode": "3124",
+        "opening_hours": "Mo-Fr 08:30-19:00; Sa 08:30-18:00; Su 09:00-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0574279,
+          -37.8296045
+        ]
+      },
+      "properties": {
+        "osm_id": 709059298,
+        "osm_type": "way",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave",
+        "operator": "PharmaSave",
+        "addr:street": "Burke Road",
+        "addr:suburb": "Camberwell",
+        "addr:postcode": "3124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0185328,
+          -37.8833478
+        ]
+      },
+      "properties": {
+        "osm_id": 711646145,
+        "osm_type": "way",
+        "name": "Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0363167,
+          -37.8191305
+        ]
+      },
+      "properties": {
+        "osm_id": 826855505,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Glenferrie Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.378582,
+          -37.7857408
+        ]
+      },
+      "properties": {
+        "osm_id": 907638451,
+        "osm_type": "way",
+        "name": "Mt Evelyn Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Wray Crescent",
+        "addr:suburb": "Mount Evelyn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0484948,
+          -37.7364468
+        ]
+      },
+      "properties": {
+        "osm_id": 980537814,
+        "osm_type": "way",
+        "name": "Heidelberg West Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Waterdale Road",
+        "addr:suburb": "Heidelberg West",
+        "addr:postcode": "3081",
+        "opening_hours": "Mo-We 09:00-18:00; Th,Fr 09:00-20:00; Sa 09:00-17:00",
+        "phone": "+61 3 9459 1976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2353039,
+          -37.8119454
+        ]
+      },
+      "properties": {
+        "osm_id": 980769148,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Maroondah Highway",
+        "addr:suburb": "Ringwood",
+        "addr:postcode": "3134",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 08:00-19:00",
+        "phone": "+61 3 9870 2630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2172488,
+          -37.7791726
+        ]
+      },
+      "properties": {
+        "osm_id": 996014816,
+        "osm_type": "way",
+        "name": "Park Orchards Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "operator": "AUSTPHARMA",
+        "addr:street": "Park Road",
+        "addr:suburb": "Park Orchards",
+        "addr:postcode": "3114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2886297,
+          -37.8109834
+        ]
+      },
+      "properties": {
+        "osm_id": 1000231823,
+        "osm_type": "way",
+        "name": "Caremore",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0113462,
+          -37.8545035
+        ]
+      },
+      "properties": {
+        "osm_id": 1000255927,
+        "osm_type": "way",
+        "name": "Orrong Compounding Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "High Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2994658,
+          -37.8443652
+        ]
+      },
+      "properties": {
+        "osm_id": 1000265859,
+        "osm_type": "way",
+        "name": "Boronia Heights Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1113747,
+          -37.727889
+        ]
+      },
+      "properties": {
+        "osm_id": 1036694735,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1848843,
+          -37.8365866
+        ]
+      },
+      "properties": {
+        "osm_id": 1066053297,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0446589,
+          -37.8235045
+        ]
+      },
+      "properties": {
+        "osm_id": 1070482325,
+        "osm_type": "way",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Burwood Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0742724,
+          -37.9227712
+        ]
+      },
+      "properties": {
+        "osm_id": 1072738760,
+        "osm_type": "way",
+        "name": "East Bentleigh Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Centre Road",
+        "addr:suburb": "Bentleigh East",
+        "addr:postcode": "3165",
+        "phone": "+61 3 9570 5664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2310638,
+          -37.8090599
+        ]
+      },
+      "properties": {
+        "osm_id": 1082792432,
+        "osm_type": "way",
+        "name": "Civic Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Warrandyte Road",
+        "addr:suburb": "Ringwood",
+        "addr:postcode": "3134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2956122,
+          -37.8834544
+        ]
+      },
+      "properties": {
+        "osm_id": 1087439649,
+        "osm_type": "way",
+        "name": "TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "shop": "chemist",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart",
+        "addr:street": "Station Street",
+        "addr:suburb": "Ferntree Gully",
+        "addr:postcode": "3156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.142923,
+          -38.0681479
+        ]
+      },
+      "properties": {
+        "osm_id": 1088332207,
+        "osm_type": "way",
+        "name": "Chemist Discount Centre",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Gladesville Boulevard"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3120146,
+          -37.7853988
+        ]
+      },
+      "properties": {
+        "osm_id": 1105415154,
+        "osm_type": "way",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy",
+        "addr:street": "Brice Avenue",
+        "addr:suburb": "Mooroolbark",
+        "addr:postcode": "3138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3144577,
+          -37.784937
+        ]
+      },
+      "properties": {
+        "osm_id": 1119512082,
+        "osm_type": "way",
+        "name": "TerryWhite Chemmart",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "TerryWhite Chemmart",
+        "addr:street": "Brice Avenue",
+        "addr:suburb": "Mooroolbark",
+        "addr:postcode": "3138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0410484,
+          -37.9037006
+        ]
+      },
+      "properties": {
+        "osm_id": 1124080114,
+        "osm_type": "way",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0744337,
+          -37.9155782
+        ]
+      },
+      "properties": {
+        "osm_id": 1127429979,
+        "osm_type": "way",
+        "name": "Mackie Pharmacy (Guardian)",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Mackie Road",
+        "addr:suburb": "Bentleigh East",
+        "addr:postcode": "3165",
+        "opening_hours": "Mo-Sa 09:18-19:00, Sa 09:00-15:00, Su 10:00-13:00, PH 10:00-13:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0415716,
+          -37.918596
+        ]
+      },
+      "properties": {
+        "osm_id": 1127660989,
+        "osm_type": "way",
+        "name": "Bentleigh Corner Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Centre Road",
+        "addr:suburb": "Bentleigh",
+        "addr:postcode": "3204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.03953,
+          -37.9183156
+        ]
+      },
+      "properties": {
+        "osm_id": 1127661017,
+        "osm_type": "way",
+        "name": "Priceline Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Priceline Pharmacy",
+        "addr:street": "Centre Road",
+        "addr:suburb": "Bentleigh",
+        "addr:postcode": "3204"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4103293,
+          -38.0037557
+        ]
+      },
+      "properties": {
+        "osm_id": 1151509353,
+        "osm_type": "way",
+        "name": "Unknown",
+        "amenity": "pharmacy",
+        "addr:street": "Beaconsfield-Emerald Road",
+        "addr:suburb": "Beaconsfield Upper"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2314738,
+          -37.8480802
+        ]
+      },
+      "properties": {
+        "osm_id": 1152581082,
+        "osm_type": "way",
+        "name": "Community Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "operator": "Community Pharmacy Friendly Society Ltd",
+        "addr:street": "The Mall",
+        "addr:suburb": "Wantirna",
+        "addr:postcode": "3152",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-18:00",
+        "phone": "+61 3 9720 2878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3097932,
+          -37.8028692
+        ]
+      },
+      "properties": {
+        "osm_id": 1156217242,
+        "osm_type": "way",
+        "name": "Caremore Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Mount Dandenong Road",
+        "addr:suburb": "Kilsyth",
+        "addr:postcode": "3137",
+        "phone": "+61 3 9723 4669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2322645,
+          -37.8479223
+        ]
+      },
+      "properties": {
+        "osm_id": 1159825833,
+        "osm_type": "way",
+        "name": "Discount Chemist Outlet",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "The Mall",
+        "addr:suburb": "Wantirna",
+        "addr:postcode": "3152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0359021,
+          -37.7955304
+        ]
+      },
+      "properties": {
+        "osm_id": 1226676795,
+        "osm_type": "way",
+        "name": "BL Butcher Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Willsmere Road",
+        "addr:suburb": "Kew",
+        "addr:postcode": "3101",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+        "phone": "+61 3 9853 9058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2121142,
+          -37.9542705
+        ]
+      },
+      "properties": {
+        "osm_id": 1261404382,
+        "osm_type": "way",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave",
+        "addr:street": "Brady Road",
+        "addr:suburb": "Dandenong North",
+        "addr:postcode": "3175",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-13:00",
+        "phone": "+61 3 9795 2636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2755202,
+          -37.8841245
+        ]
+      },
+      "properties": {
+        "osm_id": 1281316326,
+        "osm_type": "way",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "shop": "chemist",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave",
+        "addr:street": "Ferntree Gully Road",
+        "addr:suburb": "Ferntree Gully",
+        "addr:postcode": "3156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1219608,
+          -38.075036
+        ]
+      },
+      "properties": {
+        "osm_id": 1295601501,
+        "osm_type": "way",
+        "name": "Carruthers Pharmacy",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "addr:street": "Nepean Highway",
+        "addr:suburb": "Carrum",
+        "addr:postcode": "3197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3138741,
+          -37.7574037
+        ]
+      },
+      "properties": {
+        "osm_id": 1343272642,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Maroondah Highway",
+        "addr:suburb": "Chirnside Park",
+        "addr:postcode": "3116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2900115,
+          -37.8880892
+        ]
+      },
+      "properties": {
+        "osm_id": 1354763631,
+        "osm_type": "way",
+        "name": "Chemist Warehouse",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Chemist Warehouse",
+        "addr:street": "Burwood Highway",
+        "addr:suburb": "Ferntree Gully",
+        "addr:postcode": "3156",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2407501,
+          -37.8596424
+        ]
+      },
+      "properties": {
+        "osm_id": 1390253249,
+        "osm_type": "way",
+        "name": "Amcal",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "brand": "Amcal",
+        "addr:street": "Stud Road",
+        "addr:suburb": "Wantirna South",
+        "addr:postcode": "3152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2831229,
+          -37.8628281
+        ]
+      },
+      "properties": {
+        "osm_id": 1425721985,
+        "osm_type": "way",
+        "name": "PharmaSave",
+        "amenity": "pharmacy",
+        "shop": "chemist",
+        "healthcare": "pharmacy",
+        "brand": "PharmaSave",
+        "addr:street": "Boronia Road",
+        "addr:suburb": "Boronia",
+        "addr:postcode": "3155"
+      }
+    }
+  ]
+}
